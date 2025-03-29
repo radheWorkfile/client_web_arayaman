@@ -3,7 +3,6 @@
 ?>
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
 	<title>Raj Aryan Nursing & Paramedical College</title>
 	<!-- Meta tag Keywords -->
@@ -12,22 +11,27 @@
 	<meta name="description"
         content="Raj Aryan Nursing & Paramedical College is a new initiative of Aryaman Educational Trust in the field of health education aiming at furnishing humanity with well trained,  professionally expert nurses and midwives that can provide unparalleled maternity services.">
 	<meta name="keywords" content="Best College For Nursing, Best College For Paramedical, Best Nursing & Paramedical College In Bihar, Nursing Colleges In Bihar, Paramedical College In Bihar, Affordable Nursing College In Bihar" />
-    <!--// Meta tag Keywords -->
-	<?php include("include/js.php") ?>
+	<!--// Meta tag Keywords -->
+    <?php include("include/js.php") ?>
     <?php include("include/css.php") ?>
+    <style>
+        .strng{
+            color:#dc3545;
+        }
+    </style>
 </head>
-<body>  
-     <?php
-        include("include/header.php");   
+<body>
+    <?php
+        include("include/header.php");
     ?>
     <div class="container-fluid p-0">
             <div class="card bg-light text-danger banner">
                 <img class="card-img img-fluid" src="images/courses.jpg" alt="Card image">
                 <div class="card-img-overlay">
                     <div class="row" >
-                        <div class="col-lg-10 col-sm-11 text-center ">
-                            <h3 class="card-title">A. N. M. [ Auxiliary Nursing Midwifery ]</h3><br>
-                            <a href="contact-us.php" class="btn btn-danger my-2">Apply Online</a>
+                        <div class="col-lg-9 col-sm-11 text-center ">
+                        <h3 class="card-title">D.M.L.T [ Diploma in Medical Laboratory Technology ]</h3><br>
+                        <a href="contact-us.php" class="btn btn-danger my-2">Apply Online</a>
                     </div>
                 </div>
               </div>
@@ -45,12 +49,13 @@
             <div class="container mt-lg-5 mt-3 pl-lg-4">
                 <div class="row">
                     <div class="col-md-5 bg-doctor">
-                            <img class="img-fluid " src="images/anm.jpg" alt="Course">
-                            <h5 class=" special-font m-4 d-none d-lg-block  text-light text-center">Best A. N. M College In BIHAR</h5>
+                            <img class="img-fluid" src="images/bsc_nursing.jpg" alt="Course">
+                            <h5 class="m-4 d-none d-lg-block special-font text-light text-center">Best College For D.M.L.T</h5>
                     </div>
                     <div class="col-md-7">
-                        <h4 class="text-danger special-font mb-3">A. N. M. [ Auxiliary Nursing Midwifery ]</h4>
-                        <p class="text-justify text-dark">Nursing is the medical specialty of caring for the sick, and maternity care is a profession that focusses on providing help to the mother during work and pregnancy. Nursing is an important part of the healthcare sector. Nurses have the responsibility to ensure the smooth functioning of health organizations such as Hospitals, Dispensaries, NGOs, etc. Subjects covered within this course's curriculum include Anatomy & Physiology, Biological Science, Microbiology, Behavioral Science, Sociology, Psychology, Fundamentals of Nursing, and First Aid.</p>
+                        <h4 class="text-danger">D.M.L.T [ Diploma in Medical Laboratory Technology ]</h4>
+                        <p class="text-justify text-dark">Diagnostics play a prominent role in the field of medicine. Without proper diagnostics, proper conclusions regarding medical treatment/surgery can't be obtained. Similarly, preparation of reagents of purest quality is also essential. Thus, Medical Lab Technician course is attaining importance. Clinical studies in fields of medicine, pharmaceutical industries, nutrition etc. also require technicians. The Medical Lab Technician course is designed to train manpower to carry out medical laboratory technical work.</p>
+                        <p><strong class="strng">DURATION:</strong><b> 2 YEARS.</b></p>
                     </div>
                 </div>
             </div>
@@ -59,10 +64,8 @@
                     <div class="col-md-8">
                             <table class="table table-hover">
                                     <thead>
-                                      <tr class="text-center">
-                                            <tr class="text-center bg-danger text-light">
-                                              <th scope="col" colspan="2">OBJECTIVE OF THIS COURSE</th>
-                                            </tr>
+                                      <tr class="text-center bg-danger text-light">
+                                        <th scope="col" colspan="2">OBJECTIVE OF THIS COURSE</th>
                                       </tr>
                                     </thead>
                                     <tbody>
@@ -80,7 +83,7 @@
                                       </tr>
                                       <tr>
                                         <th scope="row">4</th>
-                                        <td>Good communication and observation skills which are crucial to good nursing</td>
+                                        <td>Good communication and observation skills which are crucial to good D.M.L.T</td>
                                       </tr>
                                       <tr>
                                         <th scope="row">5</th>
@@ -91,7 +94,7 @@
                     </div>
                     <div class="col-md-4 bg-doctor">
                         <img src="images/course.jpg" alt="Aims" class="img-fluid">
-                            <h5 class="m-4 d-none d-lg-block special-font text-light text-center">G. N. M. Objective</h5>
+                            <h5 class="m-4 d-none d-lg-block special-font text-light text-center">D.M.L.T Objective</h5>
                     </div>
                 </div>
             </div>
@@ -115,7 +118,7 @@
                                 </tr>
                                 <tr>
                                 <th scope="row">3</th>
-                                <td>Candidates must have science subjects in their 10+2 education.</td>
+                                <td>Candidates must have biology in their 10+2 education.</td>
                                 </tr>
                             </tbody>
                     </table>

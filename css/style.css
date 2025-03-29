@@ -1,58 +1,6 @@
-/* 1c82aa63 */
-
 @import url("https://fonts.googleapis.com/css?family=Acme|Lobster|Patua+One|Rubik|Sniglet");
 * {
     box-sizing: border-box;
-}
-
-.bg-colors {
-    background: #186003;
-}
-
-.bg-topnav {
-    background: #186003 !important;
-}
-
-.slider .card-img-overlay {
-    background: #5bc81063;
-    color: #fff!important;
-}
-
-.nav-link {
-    color: #186003 !important;
-}
-
-.banner .card-img-overlay {
-    display: flex;
-    flex-flow: column;
-    justify-content: center;
-    color: #fff!important;
-    background: #306d0663;
-}
-
-.dropdown-content a {
-    color: #186003;
-    padding: 12px 16px!important;
-    text-decoration: none;
-    display: block;
-}
-
-.dropdown-content a:hover {
-    background-color: #186003;
-    color: #fff;
-}
-
-.main_grid_contact .input-group1 button {
-    outline: none;
-    padding: 13px 10px;
-    font-size: 14px;
-    width: 36%;
-    margin-top: 2em;
-    color: #fff;
-    background: #186003;
-    border: none;
-    letter-spacing: 1px;
-    cursor: pointer;
 }
 
 header {
@@ -165,6 +113,10 @@ ol {
 
 .text-colors {
     color: #6c5ce7;
+}
+
+.bg-colors {
+    background: #ef5660;
 }
 
 .let-spa {
@@ -1033,6 +985,19 @@ h2.text-bg-click a {
     resize: none;
 }
 
+.main_grid_contact .input-group1 button {
+    outline: none;
+    padding: 13px 10px;
+    font-size: 14px;
+    width: 36%;
+    margin-top: 2em;
+    color: #fff;
+    background: #ef5660;
+    border: none;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+
 
 /* //contact form */
 
@@ -1093,6 +1058,10 @@ footer a {
     color: #fff;
 }
 
+.bg-topnav {
+    background: #dc3545 !important;
+}
+
 header .topnav ul {
     padding: 0 5vmin;
     box-sizing: border-box;
@@ -1133,12 +1102,29 @@ header .topnav ul li>a:hover {
     line-height: 7px;
 }
 
+.dropdown-content a {
+    color: #dc3545;
+    padding: 12px 16px!important;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: #dc3545;
+    color: #fff;
+}
+
 .dropdown:hover .dropdown-content {
     display: block;
 }
 
 .slider {
     border: none;
+}
+
+.slider .card-img-overlay {
+    background: #c8101063;
+    color: #fff!important;
 }
 
 .slider .card-img-overlay .row h3.caption-line,
@@ -1173,6 +1159,14 @@ header .topnav ul li>a:hover {
     justify-content: center;
 }
 
+.banner .card-img-overlay {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    color: #fff!important;
+    background: #c8101063;
+}
+
 .banner .card-img-overlay h3.card-title {
     font-family: var(--Patua);
     display: inline-block;
@@ -1205,6 +1199,10 @@ header .topnav ul li>a:hover {
     font-weight: bold;
     letter-spacing: 1.5px;
     z-index: 9999999;
+}
+
+.nav-link {
+    color: #dc3545!important;
 }
 
 footer .table td,

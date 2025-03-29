@@ -12,13 +12,13 @@
 	<meta name="description"
         content="Raj Aryan Nursing & Paramedical College is a new initiative of Aryaman Educational Trust in the field of health education aiming at furnishing humanity with well trained,  professionally expert nurses and midwives that can provide unparalleled maternity services.">
 	<meta name="keywords" content="Best College For Nursing, Best College For Paramedical, Best Nursing & Paramedical College In Bihar, Nursing Colleges In Bihar, Paramedical College In Bihar, Affordable Nursing College In Bihar" />
-    <!--// Meta tag Keywords -->
-	<?php include("include/js.php") ?>
+	<!--// Meta tag Keywords -->
+    <?php include("include/js.php") ?>
     <?php include("include/css.php") ?>
 </head>
-<body>  
-     <?php
-        include("include/header.php");   
+<body>
+    <?php
+        include("include/header.php");
     ?>
     <div class="container-fluid p-0">
             <div class="card bg-light text-danger banner">
@@ -26,8 +26,8 @@
                 <div class="card-img-overlay">
                     <div class="row" >
                         <div class="col-lg-10 col-sm-11 text-center ">
-                            <h3 class="card-title">A. N. M. [ Auxiliary Nursing Midwifery ]</h3><br>
-                            <a href="contact-us.php" class="btn btn-danger my-2">Apply Online</a>
+                                <h3 class="card-title">B. Sc. Nursing [ Bachelor Of Science In Nursing ]</h3><br>
+                                <a href="contact-us.php" class="btn btn-danger my-2">Apply Online</a>
                     </div>
                 </div>
               </div>
@@ -45,12 +45,12 @@
             <div class="container mt-lg-5 mt-3 pl-lg-4">
                 <div class="row">
                     <div class="col-md-5 bg-doctor">
-                            <img class="img-fluid " src="images/anm.jpg" alt="Course">
-                            <h5 class=" special-font m-4 d-none d-lg-block  text-light text-center">Best A. N. M College In BIHAR</h5>
+                            <img class="img-fluid" src="images/bsc_nursing.jpg" alt="Course">
+                            <h5 class="m-4 d-none d-lg-block special-font text-light text-center">Best College For B. Sc. Nursing</h5>
                     </div>
                     <div class="col-md-7">
-                        <h4 class="text-danger special-font mb-3">A. N. M. [ Auxiliary Nursing Midwifery ]</h4>
-                        <p class="text-justify text-dark">Nursing is the medical specialty of caring for the sick, and maternity care is a profession that focusses on providing help to the mother during work and pregnancy. Nursing is an important part of the healthcare sector. Nurses have the responsibility to ensure the smooth functioning of health organizations such as Hospitals, Dispensaries, NGOs, etc. Subjects covered within this course's curriculum include Anatomy & Physiology, Biological Science, Microbiology, Behavioral Science, Sociology, Psychology, Fundamentals of Nursing, and First Aid.</p>
+                        <h4 class="text-danger">B. Sc. Nursing [Bachelor of Science In Nursing ]</h4>
+                        <p class="text-justify text-dark">The Degree in Bachelor of Science, Nursing or B.Sc. Nursing is a four years professional course offered under Faculty of Nursing & Para-medical Sciences. The course curriculum lays emphasis on the promotion, upholding and reinstatement of health. It also deals in how to avoid occurrence of disease in living beings. B.Sc. Nursing course comprises the study of Nursing principles, Anatomy, Physiology, Biochemistry, Pathology, Microbiology, Psychology, Sociology, Management, Education, English, Research Biostatistics, Medical & Surgical Nursing, Child Health Nursing, Maternity Nursing, Mental Health Nursing, Community Health Nursing, and Midwifery.</p>
                     </div>
                 </div>
             </div>
@@ -59,10 +59,8 @@
                     <div class="col-md-8">
                             <table class="table table-hover">
                                     <thead>
-                                      <tr class="text-center">
-                                            <tr class="text-center bg-danger text-light">
-                                              <th scope="col" colspan="2">OBJECTIVE OF THIS COURSE</th>
-                                            </tr>
+                                      <tr class="text-center bg-danger text-light">
+                                        <th scope="col" colspan="2">OBJECTIVE OF THIS COURSE</th>
                                       </tr>
                                     </thead>
                                     <tbody>
@@ -84,14 +82,14 @@
                                       </tr>
                                       <tr>
                                         <th scope="row">5</th>
-                                        <td>Constant alertness to changes in patients' conditions and subsequent implications in terms of care</td>
+                                        <td>Constant alertness to changes in patients conditions and subsequent implications in terms of care</td>
                                       </tr>
                                     </tbody>
                                   </table>
                     </div>
                     <div class="col-md-4 bg-doctor">
                         <img src="images/course.jpg" alt="Aims" class="img-fluid">
-                            <h5 class="m-4 d-none d-lg-block special-font text-light text-center">G. N. M. Objective</h5>
+                            <h5 class="m-4 d-none d-lg-block special-font text-light text-center">B. Sc. Nursing Objective</h5>
                     </div>
                 </div>
             </div>
@@ -130,11 +128,11 @@
                                 <tbody>
                                     <tr>
                                     <th scope="row">1</th>
-                                    <td>Most ANM Nursing Colleges offering the course admits students based on performance in a relevant entrance test followed by a round of PI (Personal Interview), wherein general aptitude for the course is tested. Admission process generally varies across colleges. The final admission to the ANM course depends on the candidate's score in entrance exam and PI.</td>
+                                    <td>Most ANM Nursing Colleges offering the course admits students based on performance in a relevant entrance test followed by a round of PI (Personal Interview), wherein general aptitude for the course is tested. Admission process generally varies across colleges. The final admission to the ANM course depends on the candidate’s score in entrance exam and PI.</td>
                                     </tr>
                                     <tr>
                                     <th scope="row">2</th>
-                                    <td>Few institutes also provide direct admission based on the candidate's performance at the 10+2 level.</td>
+                                    <td>Few institutes also provide direct admission based on the candidate’s performance at the 10+2 level.</td>
                                     </tr>
                                 </tbody>
                         </table>

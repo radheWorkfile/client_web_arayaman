@@ -3,15 +3,14 @@
 ?>
 <!DOCTYPE html>
 <html lang="en">  
-	<head>
-	<?php include("include/default.php") ?>
-	<title><?php echo $company_1;?></title>
+<head>
+	<title>Raj Aryan Nursing & Paramedical College</title>
 	<!-- Meta tag Keywords -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="UTF-8" />
 	<meta name="description"
-        content="Aryaman Higher Education College is a new initiative of Aryaman Educational Trust in the field of health education aiming at furnishing humanity with well trained,  professionally expert nurses and midwives that can provide unparalleled maternity services.">
-	<meta name="keywords" content="Aryaman Higher Education, Best College For Paramedical, <?php echo $company_1;?> College In Bihar, Nursing Colleges In Bihar, Paramedical College In Bihar, Affordable Nursing College In Bihar" />
+        content="Raj Aryan Nursing & Paramedical College is a new initiative of Aryaman Educational Trust in the field of health education aiming at furnishing humanity with well trained,  professionally expert nurses and midwives that can provide unparalleled maternity services.">
+	<meta name="keywords" content="Best College For Nursing, Best College For Paramedical, Best Nursing & Paramedical College In Bihar, Nursing Colleges In Bihar, Paramedical College In Bihar, Affordable Nursing College In Bihar" />
 	<!--// Meta tag Keywords -->
 
     <?php include("include/css.php") ?>
@@ -35,7 +34,7 @@
 					  <div class="row text-center">
 						  <div class="col-1"></div>
 						  	<div class="col-8 text-left ">
-							  <h1 class="card-title caption-line"><br><?php echo $company_1;?></h1>
+							  <h1 class="card-title caption-line">Best College For <br>Nursing & Paramedical</h1>
 							  <div class="row mt-3 d-none">
 								  <div class="col-1"></div>
 								  <div class="col-5 text-center">A. N. M.
@@ -136,8 +135,8 @@
 	<div class="container mt-lg-5 mt-3">
 		<div class="row">
 			<div class="col-md-8">
-				<h3 class="text-danger mb-2">Welcome to <span class="special-font"><?php echo $company_1;?></span></h3>
-				<p class="text-justify text-dark"> <?php echo $company_1;?> is a new initiative of Aryaman Educational Trust in the field of health education aiming at furnishing humanity with well trained, humanitarian, professionally expert nurses and midwives that can provide unparalleled maternity services.</p>
+				<h3 class="text-danger mb-2">Welcome to <span class="special-font">Raj Aryan Nursing &amp; Paramedical College</span></h3>
+				<p class="text-justify text-dark">Raj Aryan Nursing & Paramedical College is a new initiative of Aryaman Educational Trust in the field of health education aiming at furnishing humanity with well trained, humanitarian, professionally expert nurses and midwives that can provide unparalleled maternity services.</p>
 				<p class="text-justify text-dark">Our college has highly appreciated teaching facility, who believes that good education is the root of a highly successful professional career.The college conducts regular exam so that students have a feedback to work harder and to get better. The teaching methods adopted, promote multi disciplinary enquiry and practical application of problems. Interactive methods of teaching are employed so that there is a high degree of interaction between of students and the teacher in the classroom.</p>
 			</div>
 			<div class="col-md-4">

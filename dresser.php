@@ -3,34 +3,36 @@
 ?>
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
 	<title>Raj Aryan Nursing & Paramedical College</title>
 	<!-- Meta tag Keywords -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta charset="UTF-8" />
+	<meta charset="UTF-8"/>
 	<meta name="description"
         content="Raj Aryan Nursing & Paramedical College is a new initiative of Aryaman Educational Trust in the field of health education aiming at furnishing humanity with well trained,  professionally expert nurses and midwives that can provide unparalleled maternity services.">
-	<meta name="keywords" content="Best College For Nursing, Best College For Paramedical, Best Nursing & Paramedical College In Bihar, Nursing Colleges In Bihar, Paramedical College In Bihar, Affordable Nursing College In Bihar" />
-    <!--// Meta tag Keywords -->
-	<?php include("include/js.php") ?>
+	<meta name="keywords" content="Best College For Nursing, Best College For Paramedical, Best Nursing & Paramedical College In Bihar, Nursing Colleges In Bihar, Paramedical College In Bihar, Affordable Nursing College In Bihar"/>
+	<!--// Meta tag Keywords -->
+    <?php include("include/js.php") ?>
     <?php include("include/css.php") ?>
+    <style>
+        .strng{
+            color:#dc3545;
+        }
+    </style>
 </head>
-<body>  
-     <?php
-        include("include/header.php");   
-    ?>
+<body>
+    <?php  include("include/header.php"); ?>
     <div class="container-fluid p-0">
             <div class="card bg-light text-danger banner">
                 <img class="card-img img-fluid" src="images/courses.jpg" alt="Card image">
                 <div class="card-img-overlay">
-                    <div class="row" >
-                        <div class="col-lg-10 col-sm-11 text-center ">
-                            <h3 class="card-title">A. N. M. [ Auxiliary Nursing Midwifery ]</h3><br>
+                    <div class="row">
+                        <div class="col-lg-9 col-sm-11 text-center">
+                            <h3 class="card-title">Dresser</h3><br>
                             <a href="contact-us.php" class="btn btn-danger my-2">Apply Online</a>
+                        </div>
                     </div>
                 </div>
-              </div>
         </div>
     </div>
 </header>
@@ -45,12 +47,13 @@
             <div class="container mt-lg-5 mt-3 pl-lg-4">
                 <div class="row">
                     <div class="col-md-5 bg-doctor">
-                            <img class="img-fluid " src="images/anm.jpg" alt="Course">
-                            <h5 class=" special-font m-4 d-none d-lg-block  text-light text-center">Best A. N. M College In BIHAR</h5>
+                            <img class="img-fluid" src="images/bsc_nursing.jpg" alt="Course">
+                            <h5 class="m-4 d-none d-lg-block special-font text-light text-center">Best College For Dresser </h5>
                     </div>
                     <div class="col-md-7">
-                        <h4 class="text-danger special-font mb-3">A. N. M. [ Auxiliary Nursing Midwifery ]</h4>
-                        <p class="text-justify text-dark">Nursing is the medical specialty of caring for the sick, and maternity care is a profession that focusses on providing help to the mother during work and pregnancy. Nursing is an important part of the healthcare sector. Nurses have the responsibility to ensure the smooth functioning of health organizations such as Hospitals, Dispensaries, NGOs, etc. Subjects covered within this course's curriculum include Anatomy & Physiology, Biological Science, Microbiology, Behavioral Science, Sociology, Psychology, Fundamentals of Nursing, and First Aid.</p>
+                        <h4 class="text-danger">Dresser </h4>
+                        <p class="text-justify text-dark">In modern society with fast life and livelihood, Medical Dressing house has become a matter of essential public requirement at every road crossing and deeply populated habitation. Dressers are the first medical - aid providers are doing very good private and independent practice without very big infrastructural investment. Along with the above self-employment option Dressers are in great requisition in every medical organization, private medical clinic, nursing home and hospital. Thus, along with first aid medical private practice a dresser can join full time works in any of the above noted NGOs or private and government medical organizations.</p>
+                        <p><strong class="strng">DURATION:</strong> <b>2 YEARS.</b></p>
                     </div>
                 </div>
             </div>
@@ -59,10 +62,8 @@
                     <div class="col-md-8">
                             <table class="table table-hover">
                                     <thead>
-                                      <tr class="text-center">
-                                            <tr class="text-center bg-danger text-light">
-                                              <th scope="col" colspan="2">OBJECTIVE OF THIS COURSE</th>
-                                            </tr>
+                                      <tr class="text-center bg-danger text-light">
+                                        <th scope="col" colspan="2">OBJECTIVE OF THIS COURSE</th>
                                       </tr>
                                     </thead>
                                     <tbody>
@@ -80,18 +81,18 @@
                                       </tr>
                                       <tr>
                                         <th scope="row">4</th>
-                                        <td>Good communication and observation skills which are crucial to good nursing</td>
+                                        <td>Good communication and observation skills which are crucial to good Dresser</td>
                                       </tr>
                                       <tr>
                                         <th scope="row">5</th>
-                                        <td>Constant alertness to changes in patients' conditions and subsequent implications in terms of care</td>
+                                        <td>Constant alertness to changes in patients conditions and subsequent implications in terms of care</td>
                                       </tr>
                                     </tbody>
                                   </table>
                     </div>
                     <div class="col-md-4 bg-doctor">
                         <img src="images/course.jpg" alt="Aims" class="img-fluid">
-                            <h5 class="m-4 d-none d-lg-block special-font text-light text-center">G. N. M. Objective</h5>
+                            <h5 class="m-4 d-none d-lg-block special-font text-light text-center">Dresser  Objective</h5>
                     </div>
                 </div>
             </div>
@@ -115,7 +116,7 @@
                                 </tr>
                                 <tr>
                                 <th scope="row">3</th>
-                                <td>Candidates must have science subjects in their 10+2 education.</td>
+                                <td>Candidates must have biology & english subjects in their 10+2 education.</td>
                                 </tr>
                             </tbody>
                     </table>

@@ -5,16 +5,15 @@
 <html lang="en">
 
 <head>
-	<title>Aryaman Higher Education</title>
+	<title>Raj Aryan Nursing & Paramedical College</title>
 	<!-- Meta tag Keywords -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="UTF-8" />
 	<meta name="description"
-        content="Aryaman Higher Education is a new initiative of Aryaman Educational Trust in the field of health education aiming at furnishing humanity with well trained,  professionally expert nurses and midwives that can provide unparalleled maternity services.">
+        content="Raj Aryan Nursing & Paramedical College is a new initiative of Aryaman Educational Trust in the field of health education aiming at furnishing humanity with well trained,  professionally expert nurses and midwives that can provide unparalleled maternity services.">
 	<meta name="keywords" content="Best College For Nursing, Best College For Paramedical, Best Nursing & Paramedical College In Bihar, Nursing Colleges In Bihar, Paramedical College In Bihar, Affordable Nursing College In Bihar" />
 	<!--// Meta tag Keywords -->
     <?php include("include/js.php") ?>
-    <?php include("include/default.php") ?>
 	<?php include("include/css.php") ?>
 </head>
 <body>
@@ -30,7 +29,7 @@
 						<div class="col-lg-6 col-sm-11 text-left ">
 								<h3 class="card-title">Admission is going on..</h3>
 								<p class="text-red d-none">Call Us <i class="fas fa-phone fa-rotate-90 px-2 "></i><span>
-										+91 <?php echo $mobile_1;?> <span class="text-warning">/</span> +91 <?php echo $mobile_2;?></span></p><br>
+										+91 9905417686 <span class="text-warning">/</span> +91 9308819517</span></p><br>
 								<a href="contact-us.php" class="btn btn-danger my-2">Apply Online</a>
 						<div class="col-lg-5 col-sm-1"></div>
 					</div>

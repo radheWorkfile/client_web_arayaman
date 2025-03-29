@@ -5,17 +5,16 @@
 <html lang="en">
 
 <head>
-	<title>Aryaman Higher Education</title>
+	<title>Raj Aryan Nursing & Paramedical College</title>
 	<!-- Meta tag Keywords -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="UTF-8" />
 	<meta name="description"
-        content="Aryaman Higher Education is a new initiative of Aryaman Educational Trust in the field of health education aiming at furnishing humanity with well trained,  professionally expert nurses and midwives that can provide unparalleled maternity services.">
+        content="Raj Aryan Nursing & Paramedical College is a new initiative of Aryaman Educational Trust in the field of health education aiming at furnishing humanity with well trained,  professionally expert nurses and midwives that can provide unparalleled maternity services.">
 	<meta name="keywords" content="Best College For Nursing, Best College For Paramedical, Best Nursing & Paramedical College In Bihar, Nursing Colleges In Bihar, Paramedical College In Bihar, Affordable Nursing College In Bihar" />
 	<!--// Meta tag Keywords -->
 	<?php include("include/js.php") ?>
 	<?php include("include/css.php") ?>
-	<?php include("include/default.php") ?>
 </head>
 
 <body>
@@ -46,8 +45,8 @@
        <div class="container mt-lg-5 mt-3">
            <div class="row">
                <div class="col-md-8">
-				<h3 class="text-danger mb-2">Welcome to <span class="special-font"><?php echo $company_1;?></span></h3>
-				<p class="text-justify text-dark"><?php echo $company;?> is a new initiative of Aryaman Educational Trust in the field of health education aiming at furnishing humanity with well trained, humanitarian, professionally expert nurses and midwives that can provide unparalleled maternity services.</p>
+				<h3 class="text-danger mb-2">Welcome to <span class="special-font">Raj Aryan Nursing &amp; Paramedical College</span></h3>
+				<p class="text-justify text-dark">Raj Aryan Nursing & Paramedical College is a new initiative of Aryaman Educational Trust in the field of health education aiming at furnishing humanity with well trained, humanitarian, professionally expert nurses and midwives that can provide unparalleled maternity services.</p>
 				<p class="text-justify text-dark">Our college has highly appreciated teaching facility, who believes that good education is the root of a highly successful professional career.The college conducts regular exam so that students have a feedback to work harder and to get better. The teaching methods adopted, promote multi disciplinary enquiry and practical application of problems. Interactive methods of teaching are employed so that there is a high degree of interaction between of students and the teacher in the classroom.</p></div>
                <div class="col-md-4">
 				<h3 class="text-danger mb-2 special-font">Our Mission</h3>
@@ -62,7 +61,7 @@
 					</div>
 			   <div class="col-md-8">
 					<h3 class="text-danger mb-2"><span class="special-font">Our Vision</span></h3>
-				   <p class="text-justify text-dark"><?php echo $company;?>, is the prism that refracts all our endeavours — whether it is our architecture, curriculum design, pedagogy, hostel life, laboratories, cafe or the library. In short, we simply celebrate the liminal space where the ‘<?php echo $company_1?>’ meetRaj Aryan Nurs the ‘local’.To flourish in the world today, one cannot afford substantive and rigid visions of the good life. One has to appreciate the negotiated nature of the contemporary. That is why we emphasise reflexivity, flexibility, diversity and accommodation as key values. While that is the ethos of critical engagement, we aspire to craft, we are equally keen to develop top quality doctors for dedicated patient care.</p>
+				   <p class="text-justify text-dark">Raj Aryan Nursing &amp; Paramedical College, It is the prism that refracts all our endeavours — whether it is our architecture, curriculum design, pedagogy, hostel life, laboratories, cafe or the library. In short, we simply celebrate the liminal space where the ‘Raj Aryan Nursing &amp; Paramedical College’ meets the ‘local’.To flourish in the world today, one cannot afford substantive and rigid visions of the good life. One has to appreciate the negotiated nature of the contemporary. That is why we emphasise reflexivity, flexibility, diversity and accommodation as key values. While that is the ethos of critical engagement, we aspire to craft, we are equally keen to develop top quality doctors for dedicated patient care.</p>
 			   </div>
 		   </div>
 	   </div>

@@ -1,5 +1,4 @@
 <!-- footer -->
-<?php include('include/default.php');?>
 <footer class="bg-colors pt-3 pb-1">
     <div class="container py-xl-4">
         <div class="row footer-grids">
@@ -11,7 +10,7 @@
                         <i class="fas fa-map-marker-alt"></i>
                     </div>
                     <div class="col-md-9 col-sm-8 col-10 address-right">
-                        <p><?php echo $address;?></p>
+                        <p> Mohhadinpur, Ramghat, <br> Nalanda, Bihar <br> Pin No : 801305</p>
                     </div>
                 </div>
             </div>
@@ -23,8 +22,8 @@
                             <i class="fas fa-phone fa-rotate-90 px-2 "></i>
                         </div>
                         <div class="col-md-9 col-sm-8 col-10 address-right">
-                            <p>+91 <?php echo $mobile_1;?></p>
-                            <p>+91 <?php echo $mobile_2;?></p>
+                            <p>+91 9905417686</p>
+                            <p>+91 9308819517</p>
                         </div>
                     </div>
                     <div class="row address-grid my-3">
@@ -33,7 +32,7 @@
                         </div>
                         <div class="col-md-9 col-sm-8 col-10 address-right">
                             <p>
-                                <a href="mailto:ranpc06@gmail.com"><?php echo $email;?></a>
+                                <a href="mailto:ranpc06@gmail.com">ranpc06@gmail.com</a>
                             </p>
                         </div>
                     </div>
@@ -113,7 +112,7 @@
             <!-- copyright -->
             <p class="col-lg-12 copy-right-grids text-bl text-lg-left text-center mt-lg-2 ">
                 <div class="col-10">
-                    <span class="float-left small">© 2019 <?php echo $company_1;?> | All
+                    <span class="float-left small">© 2019 Raj Aryan Nursing &amp; Paramedical College | All
                         Rights Reserved |</span>
                 </div>
                 <div class="col-2">
