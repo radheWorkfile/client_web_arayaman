@@ -37,7 +37,7 @@
 						  <div class="col-3"></div>
 						  	<div class="col-6 text-left ">
 							 <!-- <h1 class="card-title caption-line"><br><? echo $company_1;?></h1> -->
-							<h1 class="card-title text-shadow text-man text-center suse-font aos-init"><br><b><?php echo $company_1; ?></b></h1>
+							<h1 class="card-title text-shadow text-man text-center suse-font wow ZoomIn"><br><b><?php echo $company_1; ?></b></h1>
 							<p class="text-center text-shadow textMan" style="line-height:18px;color:#110F47;font-weight:700;">Affiliated by Health Dept. Govt. of Bihar, BNRC, BUHS Patna. <br> (Managed by M.R. Foundation)</p>
 							<p class="text-center text-shadow textMan highlight-address text-white mt-5">Arvind Marg, Lachhubigha, Mahanandpur, Nagarnausa, Nalanda-801305</p>
 							  <div class="row mt-3 d-none">
@@ -140,7 +140,7 @@
 	<div class="container mt-lg-5 mt-3">
 		<div class="row">
 			<div class="col-md-8">
-				<h3 class="text-danger mb-2 aos-animate" data-aos="flip-up" data-wow-duration="2000" data-aos-easing="ease-out-cubic">Welcome to <span class="special-font"><?php echo $company_1;?></span></h3>
+				<h3 class="text-danger mb-2">Welcome to <span class="special-font"><?php echo $company_1;?></span></h3>
 				<p class="text-justify text-dark"> <?php echo $company_1;?> is a new initiative of Aryaman Educational Trust in the field of health education aiming at furnishing humanity with well trained, humanitarian, professionally expert nurses and midwives that can provide unparalleled maternity services.</p>
 				<p class="text-justify text-dark">Our college has highly appreciated teaching facility, who believes that good education is the root of a highly successful professional career.The college conducts regular exam so that students have a feedback to work harder and to get better. The teaching methods adopted, promote multi disciplinary enquiry and practical application of problems. Interactive methods of teaching are employed so that there is a high degree of interaction between of students and the teacher in the classroom.</p>
 			</div>

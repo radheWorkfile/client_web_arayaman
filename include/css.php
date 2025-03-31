@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="css/animate.css" type="text/css" media="all" />
 <link rel="icon" href="images/logo.png" sizes="64x64">
 	<!-- Custom-Files -->
 	<link rel="stylesheet" href="css/bootstrap.css">
@@ -5,8 +6,7 @@
 	<link href="css/css_slider.css" type="text/css" rel="stylesheet" media="all">
 	<!-- banner slider -->
 	<link rel="stylesheet" href="css/style.css" type="text/css" media="all" />
-	<link rel="stylesheet" href="css/animate.css" type="text/css" media="all" />
-	<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
 	<!-- Style-CSS -->
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
 	<link href="css/font-awesome.min.css" rel="stylesheet">
