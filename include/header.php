@@ -8,7 +8,7 @@
 	<!-- //top-bar -->
 	<!-- header 2 -->
 	<!-- navigation -->
-	<div class="container-fluid px-0">
+	<div class="container-fluid px-0"style="border-bottom:1px solid #dedede;">
 	<div class="row  topnav bg-topnav">
 		<div class="col-sm-12 pt-2 px-3 lead">
 			<ul class="small text-white list-unstyled mb-2 mt-1">

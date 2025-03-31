@@ -11,7 +11,7 @@
         $message=trim($_POST["message"]);
         echo $name.$mobile.$email.$message;
         $to = "mrfoudation392@gmail.com";
-        $subject = "Enquiry From ranpc.com ";
+        $subject = "Enquiry From mrfoudation392@gmail.com";
         $headers =  'MIME-Version: 1.0' . "\r\n"; 
         $headers .= 'From: ranpc.com' . "\r\n";
         $headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
@@ -60,8 +60,7 @@
             $_SESSION["response"]="<h3>Dear <span class='text-info'>$name</span>,</h3><blockquote><p>You have entered wrong <u class='text-warning'>captcha value</u>. Please Enter the correct value.<br/>For Quick Enquiry <span class='text-warning'>Call Us</span> at <span class='text-info'><i class='fas fa-phone fa-rotate-90 px-2 '></i><span> +91 9905417686 / +91 9308819517</span></span></p>
             <p>Please, try again!</p><p>Thank You!</p></blockquote>";
         }
-        //header("Location:http://localhost/camwel/studies/response.php");
-        header("Location:http://ranpc.in/response.php");
+        header("Location:response.php");
        
        }
        

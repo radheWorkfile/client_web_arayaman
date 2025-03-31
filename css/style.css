@@ -22,6 +22,19 @@
     color: #186003 !important;
 }
 
+.response {
+    box-sizing: border-box;
+    color: white;
+    min-height: 30vh;
+    display: inline-block;
+    padding: 5vmin 3vmin;
+    text-align: left;
+    font-family: var(--sniglet-font);
+    /* border: 5vmin solid #799f6f; */
+    border-top: 8px solid #799f6f;
+    border-radius: 1rem;
+}
+
 .banner .card-img-overlay {
     display: flex;
     flex-flow: column;
@@ -1193,7 +1206,7 @@ header .topnav ul li>a:hover {
     align-items: center;
     transition: 0.5s;
     z-index: 9999999;
-    background: #dc3545;
+    background: #186003;
 }
 
 .fbtn {
@@ -1215,17 +1228,6 @@ footer .table th {
 
 
 /* response page*/
-
-.response {
-    box-sizing: border-box;
-    color: white;
-    min-height: 30vh;
-    display: inline-block;
-    padding: 5vmin 3vmin;
-    text-align: left;
-    font-family: var(--sniglet-font);
-    border: 5vmin solid #dc3545;
-}
 
 .bg-response {
     background: #4d4b4b;
