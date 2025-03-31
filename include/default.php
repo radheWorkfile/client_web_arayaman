@@ -12,3 +12,7 @@
  $twitter = 'www.twitter.com';
 
 ?>
+<!-- <h1 class="card-title caption-line" id="typing-text"></h1> -->
+
+
+
